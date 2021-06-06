@@ -2,7 +2,8 @@
 
 ![Screenshot](astr.PNG)
 
-<pre>
+Directory Structure
+
 - 📂 __Code Files (java)__
   - 📄 [AI.java](Code Files (java)/AI.java)
   - 📄 [Cord.java](Code Files (java)/Cord.java)
@@ -46,4 +47,4 @@
     - 📄 [RoutePlanner.form](src/ai/RoutePlanner.form)
     - 📄 [RoutePlanner.java](src/ai/RoutePlanner.java)
 - 📂 __test__
-</pre>
+
