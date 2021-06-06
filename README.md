@@ -1,5 +1,7 @@
 # Shortest-Path-with-A-Star-Algorithm
 
+![Screenshot](astr.PNG)
+
 <pre>
 - 📂 __Code Files (java)__
   - 📄 [AI.java](Code Files (java)/AI.java)
