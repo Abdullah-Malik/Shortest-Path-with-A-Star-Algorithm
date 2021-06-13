@@ -1,5 +1,18 @@
 # Shortest-Path-with-A-Star-Algorithm
 
+The project allows the user to see how the A* star algorithm runs on 2-D grid. The user can test the system by the following the steps mentioned below:
+
+1. Run this project on Netbeans IDE
+2. A screen appears that has some buttons on it
+3. User should not select the starting node
+4. User selects the ending node
+5. User clicks on find path button
+6. Path between starting and ending node appears on the screen
+
+Technologies used include:
+1. Java
+2. Java Swing
+
 ![Screenshot](astr.PNG)
 
 Directory Structure
